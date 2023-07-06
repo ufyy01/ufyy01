@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ufyy01
-- 👀 I’m interested in software and game development
-- 🌱 I’m currently trying to transition from accounting to tech.
-- 💞️ I’m looking to collaborate on character design, game development and anything in between.
+- 👀 I’m interested in software development and game development
+- 🌱 I’m currently studing to be a MERN stack developer.
+- 💞️ I’ll appreciate mentorships and collaborations.
 - 📫 How to reach me amazingufy@gmail.com
 
 <!---
