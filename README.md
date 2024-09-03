@@ -1,6 +1,6 @@
 ![MasterHead](https://res.cloudinary.com/daisikwbm/image/upload/v1709198217/Blue_Coming_Soon_Banner_Landscape_rf7khf.gif)
 <h1 align="center">Hi 👋, I'm Ufuoma Ohwo</h1>
-<h3 align="center">🎨 MERN Stack developer by day, 3D sculptor, anime and manga enthusiast by night! 💻<br>✨ Crafting digital wonders and virtual masterpieces with a touch of magic. <br>🌟 Let's create something extraordinary together! 🚀</h3>
+<h3 align="center">🎨 Full Stack developer by day, 3D sculptor, anime and manga enthusiast by night! 💻<br>✨ Crafting digital wonders and virtual masterpieces with a touch of magic. <br>🌟 Let's create something extraordinary together! 🚀</h3>
 <img align="right" alt="coding" width="400" src="https://res.cloudinary.com/daisikwbm/image/upload/v1709291296/IMG_2124_wqfhb0.gif">
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=ufyy01&label=Profile%20views&color=0e75b6&style=flat" alt="ufyy01" /> </p>
