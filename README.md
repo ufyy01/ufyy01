@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **amazingufy@gmail.com**
 
-- ⚡ Fun fact **I have read the Harry Potter series 1000th times**
+- ⚡ Fun fact **I love reading 📖**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
